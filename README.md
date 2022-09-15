@@ -1,1 +1,1 @@
-This is my first attempt of the C programming language
+This is my first task on Debugging
